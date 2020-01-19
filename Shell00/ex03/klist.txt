@@ -1,0 +1,5 @@
+Credentials cache: API:F12A7892-4AE6-46D7-AF55-82C0662E0725
+        Principal: fvega-tr@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep  2 18:01:48 2019  Sep  3 04:00:55 2019  krbtgt/42MADRID.COM@42MADRID.COM
